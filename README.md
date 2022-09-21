@@ -2,10 +2,10 @@
 # Smart Solution for Railways
  IBM-Project-39046-1660389861
 ## Team Members
- - Nikhil Dhaka (718019Z334)
- - Niranjan S (718019Z335)
- - Rohit Sonar (718019Z342)
- - Vasanthan M (718019Z359)
+ - [Team Lead - Nikhil Dhaka (718019Z334)](https://github.com/nikhild05)
+ - [Member 1 - Niranjan S (718019Z335)](https://github.com/niran1412)
+ - [Member 2 - Rohit Sonar (718019Z342)](https://github.com/Rohit-2001-Sonar)
+ - [Member 3 - Vasanthan M (718019Z359)](https://github.com/Vasanthan916)
 ## Ideation Phase
  - [Problem Statement](https://github.com/IBM-EPBL/IBM-Project-39046-1660389861/blob/main/Pre-Development%20Phase/Project%20Planning/ProblemStatement-SmartSolutionForRailways-PNT2022TMID12653.pdf)
  - [Empathy Map](https://app.mural.co/invitation/mural/ibm06765/1663722824795?sender=u456599987bbb7a87edd88416&key=2b27581c-8311-44c9-ba0f-ed6c46e3df1f)
