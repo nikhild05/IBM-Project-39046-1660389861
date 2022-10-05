@@ -6,8 +6,6 @@ Maximum Marks: 4
 
 Student Roll Number: 718019Z334
 
-## Assignment Details
-
 Technology: Internet of Things
 
 Domain: Smart Solution for Railways
