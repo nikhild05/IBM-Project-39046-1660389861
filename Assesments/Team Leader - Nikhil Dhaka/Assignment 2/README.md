@@ -12,7 +12,7 @@ Technology: Internet of Things
 
 Domain: Smart Solution for Railways
 
-## Assignment Problem Statement
+## Problem Statement
 
 Build a python code assuming you get temperature and humidity values (Generated with random function) and write a condition to continuously detect alarm in case of high temperature.
 
