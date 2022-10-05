@@ -1,6 +1,13 @@
+<br>
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
+  <h2 align="center"> Smart Solution for Railways <br></h2>
 
-# Smart Solution for Railways
- IBM-Project-39046-1660389861
+  </div>
+ <br> 
+ <h3>IBM-Project-39046-1660389861</h3>  
+   
+
 ## Team Members
  - [Team Lead - Nikhil Dhaka (718019Z334)](https://github.com/nikhild05)
  - [Member 1 - Niranjan S (718019Z335)](https://github.com/niran1412)
