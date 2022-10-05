@@ -55,4 +55,4 @@ for i in range(maxLoopCount):
 
 
 ## Output
-[Output](https://github.com/IBM-EPBL/IBM-Project-39046-1660389861/blob/main/Assesments/Nikhil%20Dhaka/Assignment%202/alarm_output.txt)
+[alarm_output.txt](https://github.com/IBM-EPBL/IBM-Project-39046-1660389861/blob/main/Assesments/Nikhil%20Dhaka/Assignment%202/alarm_output.txt)
