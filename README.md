@@ -13,6 +13,11 @@
  - [Member 1 - Niranjan S (718019Z335)](https://github.com/niran1412)
  - [Member 2 - Rohit Sonar (718019Z342)](https://github.com/Rohit-2001-Sonar)
  - [Member 3 - Vasanthan M (718019Z359)](https://github.com/Vasanthan916)
+ 
+## Abstract
+Next to airways, trains are one of the fastest modes of transportation. Being the preferred choice among vast majority of middle class and impoverished people, it attracts for its amenities. But, passengers in trains are increasingly at risk from thefts and accidents. The most common forms of these hazards include chain snatching, derailment, and fire accidents. People no longer want to travel in trains alone or at night because they believe they are unsafe. The rail accidents are
+documented by the National Crime Bureau. As a result, the federal government has implemented new security measures that mandate 2 to 5 RPF in train at all times. It can be used as starting point, however, it falls short in certain situations. We give a solution to address these problems by providing an application which the user can access after booking. With a single click, this app addresses the most urgent train issues, such as fire incidents, the prevalence of unreserved passengers in reserved compartments, and chain snatching. Hereby, a text message will be sent to the TC and RPF as an alert notification. Our project uses the Node-Red service,
+app development, and IBM cloud platform to store passenger data.
 ## Ideation Phase
  - [Problem Statement](https://github.com/IBM-EPBL/IBM-Project-39046-1660389861/blob/main/Pre-Development%20Phase/Project%20Planning/ProblemStatement-SmartSolutionForRailways-PNT2022TMID12653.pdf)
  - [Empathy Map](https://app.mural.co/invitation/mural/ibm06765/1663722824795?sender=u456599987bbb7a87edd88416&key=2b27581c-8311-44c9-ba0f-ed6c46e3df1f)
